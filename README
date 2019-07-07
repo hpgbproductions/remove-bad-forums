@@ -1,0 +1,9 @@
+Ver0.1 > 1907071425+8
+Removes the /politics and /philosophy forum pages, as well as Popular Forum Posts in those categories.
+
+Install:
+0. Install the Tampermonkey extension and open the Dashboard.
+1. Go to Utilities > URL.
+2. Type in the following: https://raw.githubusercontent.com/hpgbproductions/remove-bad-forums/master/remove%20bad%20forums
+3. Click Import and Install
+Changes will be seen in Forums.
