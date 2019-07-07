@@ -6,4 +6,4 @@ Install:
 1. Go to Utilities > URL.
 2. Type in the following: https://raw.githubusercontent.com/hpgbproductions/remove-bad-forums/master/remove%20bad%20forums
 3. Click Import and Install
-Changes will be seen in Forums.
+Changes will be seen in Forums. Works for both the old site and Eclipse as they have the same Forums HTML.
