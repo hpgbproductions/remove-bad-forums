@@ -12,6 +12,7 @@
 /*--- Use the jQuery contains selector to find content to remove.
     Beware that not all whitespace is as it appears.
 */
+$("h1").replaceWith("<h1>Forum (damage prevention is active)</h1>");
 $("tr:contains('Politics')").remove();
 $("tr:contains('Philosophy')").remove();
 $("li a[href*='/politics/']").parent().remove();
